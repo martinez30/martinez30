@@ -24,5 +24,3 @@ Recém graduado em Ciência da Computação pela Universidade Edson e Desenvolve
 
 <a href="http://www.github.com/martinez30"><img src="https://github-readme-stats.vercel.app/api?username=martinez30&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="martinez30's GitHub stats" /></a>
 
-![Snake animation](https://github.com/martinez30/martinez30/blob/output/github-contribution-grid-snake.svg)
- 
